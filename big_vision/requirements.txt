@@ -7,7 +7,7 @@ optax
 git+https://github.com/google/flaxformer
 git+https://github.com/akolesnikoff/panopticapi.git@mute
 overrides
-tensorflow-cpu==2.13
+tensorflow-cpu
 tfds-nightly
 tensorflow-addons
 tensorflow-text
