@@ -1,4 +1,4 @@
-numpy>=1.26
+numpy==1.26.0
 absl-py
 git+https://github.com/google/CommonLoopUtils
 einops
@@ -7,7 +7,7 @@ optax
 git+https://github.com/google/flaxformer
 git+https://github.com/akolesnikoff/panopticapi.git@mute
 overrides
-tensorflow-cpu
+tensorflow-cpu==2.13
 tfds-nightly
 tensorflow-addons
 tensorflow-text
